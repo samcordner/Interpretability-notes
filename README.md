@@ -1,1 +1,1 @@
-# interperability-notes-monorepo
+# interpretability-notes
